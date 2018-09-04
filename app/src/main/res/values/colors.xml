@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#999999</color>
+    <color name="colorPrimaryDark">#666666</color>
+    <color name="colorAccent">#333333</color>
+
+    <color name="colorPostListBackground">#EEEEEE</color>
+    <color name="colorPostHeaderBackground">#E0E0E0</color>
+    <color name="colorSplashBackground">#CCCCCC</color>
+
+    <color name="colorSemiTransparent">#77FFFFFF</color>
+    <color name="colorTransparent">#00CCCCCC</color>
+</resources>

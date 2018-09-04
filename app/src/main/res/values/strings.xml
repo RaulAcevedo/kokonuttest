@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KokonutTest</string>
+
+    <string name="text_app_title">Prueba\nRaúl Acevedo Infante</string>
+    <string name="text_app_copyright">Copyright</string>
+    <string name="text_login_header">Por favor, complete los siguientes campos</string>
+    <string name="hint_user_name">Usuario o correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_login">Iniciar Sesión</string>
+    <string name="title_message">Información</string>
+    <string name="ok">Ok</string>
+    <string name="title_posts">Artículos</string>
+    <string name="error_login">Hubo un error de conexión, Por favor Intente más tarde</string>
+    <string name="profile_welcome">Bienvenido, %1$s %2$s</string>
+</resources>
